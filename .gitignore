@@ -12,3 +12,7 @@ frontend/dist/
 .DS_Store
 *.log
 .ssh/
+
+# Sandbox artifacts
+.npm/
+.sudo_as_admin_successful
